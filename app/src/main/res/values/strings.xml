@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">" Gorontalo E-Wisata"</string>
+    <string name="openDrawer">Drawer dibuka</string>
+    <string name="closeDrawer">Drawer ditutup</string>
+    <string name="navigation_view_item_1">Daftar Wisata</string>
+    <string name="navigation_view_item_2">Peta Wisata</string>
+    <string name="navigasi_kategori_2">Opsi</string>
+    <string name="navigation_view_item_4">Logout</string>
+    <string name="navigation_view_item_5">About</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
